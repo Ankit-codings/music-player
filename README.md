@@ -1,10 +1,7 @@
 # Music Player Web App
-
- 
-
 The Music Player Project is a web application developed using HTML, CSS & JavaScript that emulates the core functionalities of the popular music streaming service, Spotify. It provides users with an immersive music listening experience and a user-friendly interface. The project aims to showcase web development skills and serve as a learning resource for web developers interested in building interactive web applications.
 
-Live :  
+Live :  https://ankit-codings.github.io/music-player/
 
 Key Features:
 
@@ -53,5 +50,5 @@ https://github.com/Ankit-codings
 
 ## Feedback
 
-If you have any feedback, please reach out to us at affanasgar8@gmail.com
+If you have any feedback, please reach out to us at  ankitsinghbabu@gmail.com
 
